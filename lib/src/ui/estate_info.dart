@@ -9,7 +9,6 @@ class EstateInfoWidget extends StatelessWidget {
 
   EstateInfoWidget(this.model);
 
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
